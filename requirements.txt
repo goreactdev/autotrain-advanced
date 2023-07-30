@@ -18,7 +18,7 @@ sentencepiece==0.1.99
 tqdm==4.62.1
 werkzeug==2.3.6
 huggingface_hub>=0.14.1
-triton==2.0.0.post1
+triton==2.0.0.dev20230217
 requests==2.31.0
 gradio==3.37.0
 einops==0.6.1
